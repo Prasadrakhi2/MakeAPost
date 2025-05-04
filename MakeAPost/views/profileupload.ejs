@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Home Page</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="flex h-screen bg-gray-100 text-gray-900">
+
+
+  <!-- Main Content -->
+  <main class="flex-1 p-10 overflow-y-auto ">
+    <h1 class="text-3xl font-bold mb-4">Edit Profile</h1>
+    <form action="/profilepic/update" method="post" enctype="multipart/form-data">
+      <input type="file" name="image" id="">
+      <input type="submit" class="bg-gradient-to-r from-indigo-500 to-purple-600 text-white font-semibold px-5 py-3 rounded-lg hover:opacity-90 transition duration-200 cursor-pointer" value="Update">
+    </form>
+   
+
+  </main>
+
+</body>
+</html>
