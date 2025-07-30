@@ -37,7 +37,7 @@
 - 📖 View a list of all blog posts  
 - ✏️ Edit existing posts  
 - 🗑️ Delete posts  
-- 🔐 *(Optional)* Add user authentication for managing posts  
+
 
 ### 🧪 Tech Stack
 
