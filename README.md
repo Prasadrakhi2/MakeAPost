@@ -44,6 +44,6 @@
 - **Backend:** Node.js, Express.js  
 - **Templating Engine:** EJS  
 - **Database:** MongoDB (via Mongoose)  
-- **Styling:** Bootstrap / Tailwind / Custom CSS  
+- **Styling:** Tailwind  
 
 ---
